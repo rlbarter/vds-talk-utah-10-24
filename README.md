@@ -1,1 +1,1 @@
-# vds-talk-utah-10-24
+# Veridical Data Science Talk, Utah Data Science Seminar
